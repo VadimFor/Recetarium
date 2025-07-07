@@ -1,2 +1,3 @@
 # Recetarium
-proyecto en grupo
+  Editor usado: VsCode
+  Para ejecutar el proyecto:  npx expo start --clear
