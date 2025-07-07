@@ -1,0 +1,2 @@
+# Recetarium
+proyecto en grupo
