@@ -1,7 +1,7 @@
 #Para ejecutarlo usas: #
 
 npx expo start --clear
-![alt text](imagen_2025-07-07_171300240.png)
+![alt text](build.png)
 
 
 #Para visualizarlo usas android emulator: #
